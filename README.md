@@ -1,7 +1,8 @@
 ## Programmers-Nightmare
-Frustrate your programmer friends to no end with this application.
 
-Replace all white space with the invisible character.
+Replace all white space with the invisible character!
+
+Replace the filename with your friends programs as a prank
 
 Your friend will never know why all of their code doesn't work!
 
